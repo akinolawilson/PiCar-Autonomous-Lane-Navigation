@@ -10,7 +10,7 @@ quantities; steering angle and speed of a [SunFounder PiCar](https://www.sunfoun
 **Data collection**:
 The data collection was performed in segments, where each particular scenario of the final test enirvonment was targeted. The remote controlled car was manuvoured via external controls around the following tracks
 
-!(https://ibb.co/x2HYnkJ)
+!(https://github.com/akinolawilson/PiCar-Autonomous-Lane-Navigation/blob/akinolawilson-sorting/ring_diagram.png?raw=true)
 
 
 
