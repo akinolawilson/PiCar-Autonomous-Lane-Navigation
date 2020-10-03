@@ -1,4 +1,4 @@
-# PiCar: Autnomous Lane Navigation
+# PiCar: Autonomous Lane Navigation
 ________________________________________________________________________________________________________________________________________
 
 ## Overview
@@ -30,5 +30,5 @@ The raw files are separated via their original collection. There are around 13 f
 <br><br>
 **Modelling**
 <br><br>
-The  <ins>CNN_model.ipynb</ins> contains the fitting and optmization process of the CNN model. Tensorflows' hyperparameter API alongside the TensorBoard API has been used for the model optimization process. 
+The  <ins>CNN_model.ipynb</ins> contains the fitting and optmization process of the CNN model. Tensorflows' hyperparameter API alongside the TensorBoard API has been used for the model optimization process.
 ________________________________________________________________________________________________________________________________________
