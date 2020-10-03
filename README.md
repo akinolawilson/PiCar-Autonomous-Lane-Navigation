@@ -1,7 +1,7 @@
 # PiCar: Autnomous Lane Navigation
 ________________________________________________________________________________________________________________________________________
 
-## Overview 
+## Overview
 ________________________________________________________________________________________________________________________________________
 
 This repository contains the notebook that sees the implementation and optimization of a convolutional network. The underlying task is to prediction two
