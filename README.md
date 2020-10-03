@@ -13,7 +13,7 @@ The data collection was performed in segments, where each particular scenario of
 <br><br>
 <img src="https://github.com/akinolawilson/PiCar-Autonomous-Lane-Navigation/blob/akinolawilson-sorting/ring_diagram.png?raw=true" width="200"/>
 <br><br>
-Where the following situation were consider:
+Where the following situations were considered:
 - Clear ring
 - Clear T-junction 
 - Ring track with obsteciules 
